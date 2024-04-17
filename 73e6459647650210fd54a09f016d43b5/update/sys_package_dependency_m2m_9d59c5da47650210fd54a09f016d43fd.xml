@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">5dd3fca43c31311068bcf327dfe37f30</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>dandev</sys_created_by>
+        <sys_created_on>2024-04-15 23:08:35</sys_created_on>
+        <sys_id>9d59c5da47650210fd54a09f016d43fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Social Media Management" source="x_1245589_social_m">73e6459647650210fd54a09f016d43b5</sys_package>
+        <sys_updated_by>dandev</sys_updated_by>
+        <sys_updated_on>2024-04-15 23:08:35</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

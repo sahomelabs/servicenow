@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application/>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Monitors</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1245589_social_m_monitor</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_1245589_social_m.monitor_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>dandev</sys_created_by>
+        <sys_created_on>2024-04-15 23:08:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c159c5da47650210fd54a09f016d43a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Monitors</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Social Media Management" source="x_1245589_social_m">73e6459647650210fd54a09f016d43b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Management">73e6459647650210fd54a09f016d43b5</sys_scope>
+        <sys_update_name>sys_app_module_c159c5da47650210fd54a09f016d43a2</sys_update_name>
+        <sys_updated_by>dandev</sys_updated_by>
+        <sys_updated_on>2024-04-15 23:08:34</sys_updated_on>
+        <timeline_page/>
+        <title>Monitors</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Social Media Management">73e6459647650210fd54a09f016d43b5</application>
+        <file_path/>
+        <instance_id>4107066bdbca715437d72a59139619d8</instance_id>
+        <instance_name>dev197486</instance_name>
+        <name>sys_app_module_c159c5da47650210fd54a09f016d43a2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application/><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Monitors</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1245589_social_m_monitor</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles>x_1245589_social_m.monitor_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>dandev</sys_created_by><sys_created_on>2024-04-15 23:08:34</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c159c5da47650210fd54a09f016d43a2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Monitors</sys_name><sys_overrides/><sys_package display_value="Social Media Management" source="x_1245589_social_m">73e6459647650210fd54a09f016d43b5</sys_package><sys_policy/><sys_scope display_value="Social Media Management">73e6459647650210fd54a09f016d43b5</sys_scope><sys_update_name>sys_app_module_c159c5da47650210fd54a09f016d43a2</sys_update_name><sys_updated_by>dandev</sys_updated_by><sys_updated_on>2024-04-15 23:08:34</sys_updated_on><timeline_page/><title>Monitors</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1044377762</payload_hash>
+        <record_name>Monitors</record_name>
+        <reverted_from/>
+        <source>37e6459647650210fd54a09f016d43b7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>dandev</sys_created_by>
+        <sys_created_on>2024-04-15 23:56:00</sys_created_on>
+        <sys_id>0034115a47a50210fd54a09f016d43cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ee43066170000001</sys_recorded_at>
+        <sys_updated_by>dandev</sys_updated_by>
+        <sys_updated_on>2024-04-15 23:56:00</sys_updated_on>
+        <type>Module</type>
+        <update_guid>4d59c5da53650210646f85014071b4a3</update_guid>
+        <update_guid_history>4d59c5da53650210646f85014071b4a3:1749165549,4d59c5da53650210646f85014071b4a3:1749165549</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Monitors">9254d99a47a50210fd54a09f016d43c9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>dandev</sys_created_by>
+        <sys_created_on>2024-04-15 23:56:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>a77a6d0fc6b64c5cbb057222a8fd8801</sys_id>
+        <sys_metadata>c159c5da47650210fd54a09f016d43a2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Monitors</sys_name>
+        <sys_package display_value="Social Media Management" source="x_1245589_social_m">73e6459647650210fd54a09f016d43b5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Management">73e6459647650210fd54a09f016d43b5</sys_scope>
+        <sys_scope_delete display_value="">d181afb9f2b04f6695611368700794a4</sys_scope_delete>
+        <sys_update_name>sys_app_module_c159c5da47650210fd54a09f016d43a2</sys_update_name>
+        <sys_update_version display_value="sys_app_module_c159c5da47650210fd54a09f016d43a2">0034115a47a50210fd54a09f016d43cd</sys_update_version>
+        <sys_updated_by>dandev</sys_updated_by>
+        <sys_updated_on>2024-04-15 23:56:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>dandev</sys_created_by>
+        <sys_created_on>2024-04-16 17:00:42</sys_created_on>
+        <sys_id>dabe782247694210fd54a09f016d4315</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1245589_social_m_monitor.x_1245589_social_m.user</sys_name>
+        <sys_package display_value="Social Media Management" source="x_1245589_social_m">73e6459647650210fd54a09f016d43b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Management">73e6459647650210fd54a09f016d43b5</sys_scope>
+        <sys_security_acl display_value="x_1245589_social_m_monitor">4abe782247694210fd54a09f016d4310</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_dabe782247694210fd54a09f016d4315</sys_update_name>
+        <sys_updated_by>dandev</sys_updated_by>
+        <sys_updated_on>2024-04-16 17:00:42</sys_updated_on>
+        <sys_user_role display_value="x_1245589_social_m.user" name="x_1245589_social_m.user">a1fdc95247a50210fd54a09f016d4381</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

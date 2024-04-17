@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="valid" label="Valid concern" language="en" table="x_1245589_social_m_monitor">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>valid</element>
+            <help/>
+            <hint/>
+            <label>Valid concern</label>
+            <language>en</language>
+            <name>x_1245589_social_m_monitor</name>
+            <plural>Valid concerns</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>dandev</sys_created_by>
+            <sys_created_on>2024-04-16 00:52:14</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Valid concern</sys_name>
+            <sys_package display_value="Social Media Management" source="x_1245589_social_m">73e6459647650210fd54a09f016d43b5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Social Media Management">73e6459647650210fd54a09f016d43b5</sys_scope>
+            <sys_update_name>sys_documentation_x_1245589_social_m_monitor_valid_en</sys_update_name>
+            <sys_updated_by>dandev</sys_updated_by>
+            <sys_updated_on>2024-04-16 00:52:14</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
