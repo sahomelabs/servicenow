@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="558b7b0f47a10210fd54a09f016d43d5" sys_domain="global" table="x_1245589_social_m_monitor" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>dandev</sys_created_by>
+            <sys_created_on>2024-04-18 20:02:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>118bbb0f47a10210fd54a09f016d430b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1245589_social_m_monitor" name="x_1245589_social_m_monitor" sys_domain="global" view="Default view">558b7b0f47a10210fd54a09f016d43d5</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1245589_social_m_monitor" sys_domain="global" view="Default view">84813fcf47610210fd54a09f016d4359</sys_ui_section>
+            <sys_updated_by>dandev</sys_updated_by>
+            <sys_updated_on>2024-04-18 20:02:33</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>dandev</sys_created_by>
+            <sys_created_on>2024-04-18 20:02:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1d8bbb0f47a10210fd54a09f016d430b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1245589_social_m_monitor" name="x_1245589_social_m_monitor" sys_domain="global" view="Default view">558b7b0f47a10210fd54a09f016d43d5</sys_ui_form>
+            <sys_ui_section caption="Assessment" display_value="Assessment" name="x_1245589_social_m_monitor" sys_domain="global" view="Default view">118b7b0f47a10210fd54a09f016d43d4</sys_ui_section>
+            <sys_updated_by>dandev</sys_updated_by>
+            <sys_updated_on>2024-04-18 20:02:33</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>dandev</sys_created_by>
+            <sys_created_on>2024-04-18 20:04:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77db734f47a10210fd54a09f016d43fa</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1245589_social_m_monitor" name="x_1245589_social_m_monitor" sys_domain="global" view="Default view">558b7b0f47a10210fd54a09f016d43d5</sys_ui_form>
+            <sys_ui_section caption="Action" display_value="Action" name="x_1245589_social_m_monitor" sys_domain="global" view="Default view">f7db734f47a10210fd54a09f016d43f7</sys_ui_section>
+            <sys_updated_by>dandev</sys_updated_by>
+            <sys_updated_on>2024-04-18 21:45:47</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>dandev</sys_created_by>
+            <sys_created_on>2024-04-18 20:04:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0c1cb74f47a10210fd54a09f016d435f</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1245589_social_m_monitor" name="x_1245589_social_m_monitor" sys_domain="global" view="Default view">558b7b0f47a10210fd54a09f016d43d5</sys_ui_form>
+            <sys_ui_section caption="Internal notes" display_value="Internal notes" name="x_1245589_social_m_monitor" sys_domain="global" view="Default view">c81cb74f47a10210fd54a09f016d435c</sys_ui_section>
+            <sys_updated_by>dandev</sys_updated_by>
+            <sys_updated_on>2024-04-18 21:45:47</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>dandev</sys_created_by>
+            <sys_created_on>2024-04-18 20:07:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>42bc378f47a10210fd54a09f016d4365</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1245589_social_m_monitor" name="x_1245589_social_m_monitor" sys_domain="global" view="Default view">558b7b0f47a10210fd54a09f016d43d5</sys_ui_form>
+            <sys_ui_section caption="Approval history" display_value="Approval history" name="x_1245589_social_m_monitor" sys_domain="global" view="Default view">0ebc378f47a10210fd54a09f016d4361</sys_ui_section>
+            <sys_updated_by>dandev</sys_updated_by>
+            <sys_updated_on>2024-04-18 21:45:47</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1245589_social_m_monitor</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>dandev</sys_created_by>
+            <sys_created_on>2024-04-18 20:02:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>558b7b0f47a10210fd54a09f016d43d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1245589_social_m_monitor</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Social Media Management" source="x_1245589_social_m">73e6459647650210fd54a09f016d43b5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Social Media Management">73e6459647650210fd54a09f016d43b5</sys_scope>
+            <sys_update_name>sys_ui_form_sections_558b7b0f47a10210fd54a09f016d43d5</sys_update_name>
+            <sys_updated_by>dandev</sys_updated_by>
+            <sys_updated_on>2024-04-18 20:02:32</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

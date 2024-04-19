@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_template_input_var">
+    <sys_app_template_input_var action="INSERT_OR_UPDATE">
+        <default/>
+        <description>The description of the new flow</description>
+        <flow_input_variable display_value="Flow Description">26008d5747290210fd54a09f016d4321</flow_input_variable>
+        <label>Description</label>
+        <mandatory>false</mandatory>
+        <name>flow_description</name>
+        <sys_class_name>sys_app_template_input_var</sys_class_name>
+        <sys_created_by>dandev</sys_created_by>
+        <sys_created_on>2024-04-19 01:01:55</sys_created_on>
+        <sys_id>b6008d57ae2902109a01c3f8df8015a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>flow_description</sys_name>
+        <sys_package display_value="Social Media Management" source="x_1245589_social_m">73e6459647650210fd54a09f016d43b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Management">73e6459647650210fd54a09f016d43b5</sys_scope>
+        <sys_update_name>sys_app_template_input_var_b6008d57ae2902109a01c3f8df8015a3</sys_update_name>
+        <sys_updated_by>dandev</sys_updated_by>
+        <sys_updated_on>2024-04-19 01:01:55</sys_updated_on>
+        <template display_value="Social Media Response Approvals">96004d573a2902101e7b5116d1e807ff</template>
+        <type>string</type>
+    </sys_app_template_input_var>
+</record_update>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_template_detail">
+    <sys_app_template_detail action="INSERT_OR_UPDATE">
+        <additional_uses/>
+        <author>dev197486</author>
+        <data_image/>
+        <detailed_description/>
+        <function_type_list/>
+        <header_background_color/>
+        <header_image/>
+        <hero_image_1/>
+        <hero_image_2/>
+        <hero_image_3/>
+        <how_was_built/>
+        <icon/>
+        <metadata_list/>
+        <schema_image/>
+        <short_description/>
+        <sys_class_name>sys_app_template_detail</sys_class_name>
+        <sys_created_by>dandev</sys_created_by>
+        <sys_created_on>2024-04-19 01:01:56</sys_created_on>
+        <sys_id>3e008d5747290210fd54a09f016d43c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Social Media Management" source="x_1245589_social_m">73e6459647650210fd54a09f016d43b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Management">73e6459647650210fd54a09f016d43b5</sys_scope>
+        <sys_update_name>sys_app_template_detail_3e008d5747290210fd54a09f016d43c6</sys_update_name>
+        <sys_updated_by>dandev</sys_updated_by>
+        <sys_updated_on>2024-04-19 01:01:56</sys_updated_on>
+        <template display_value="Social Media Response Approvals">96004d573a2902101e7b5116d1e807ff</template>
+    </sys_app_template_detail>
+    <sys_translated_text action="delete_multiple" query="documentkey=3e008d5747290210fd54a09f016d43c6"/>
+</record_update>

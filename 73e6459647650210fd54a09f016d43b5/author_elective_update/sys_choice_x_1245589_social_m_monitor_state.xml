@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="state" table="x_1245589_social_m_monitor" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <name>x_1245589_social_m_monitor</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>dandev</sys_created_by>
+            <sys_created_on>2024-04-19 00:11:30</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>state</sys_name>
+            <sys_package display_value="Social Media Management" source="x_1245589_social_m">73e6459647650210fd54a09f016d43b5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Social Media Management">73e6459647650210fd54a09f016d43b5</sys_scope>
+            <sys_update_name>sys_choice_x_1245589_social_m_monitor_state</sys_update_name>
+            <sys_updated_by>dandev</sys_updated_by>
+            <sys_updated_on>2024-04-19 00:11:30</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>New</label>
+            <language>en</language>
+            <name>x_1245589_social_m_monitor</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>dandev</sys_created_by>
+            <sys_created_on>2024-04-19 00:13:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>dandev</sys_updated_by>
+            <sys_updated_on>2024-04-19 00:17:39</sys_updated_on>
+            <value>0</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>New</label>
+            <language>en</language>
+            <name>x_1245589_social_m_monitor</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>dandev</sys_created_by>
+            <sys_created_on>2024-04-19 00:11:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dandev</sys_updated_by>
+            <sys_updated_on>2024-04-19 00:11:30</sys_updated_on>
+            <value>8</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Assigned</label>
+            <language>en</language>
+            <name>x_1245589_social_m_monitor</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>dandev</sys_created_by>
+            <sys_created_on>2024-04-19 00:17:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dandev</sys_updated_by>
+            <sys_updated_on>2024-04-19 00:17:39</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Assigned</label>
+            <language>en</language>
+            <name>x_1245589_social_m_monitor</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>dandev</sys_created_by>
+            <sys_created_on>2024-04-19 00:11:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>dandev</sys_updated_by>
+            <sys_updated_on>2024-04-19 00:42:46</sys_updated_on>
+            <value>9</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>No response</label>
+            <language>en</language>
+            <name>x_1245589_social_m_monitor</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>dandev</sys_created_by>
+            <sys_created_on>2024-04-19 00:11:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>dandev</sys_updated_by>
+            <sys_updated_on>2024-04-19 00:42:46</sys_updated_on>
+            <value>14</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Approval requested</label>
+            <language>en</language>
+            <name>x_1245589_social_m_monitor</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>dandev</sys_created_by>
+            <sys_created_on>2024-04-19 00:17:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dandev</sys_updated_by>
+            <sys_updated_on>2024-04-19 00:17:39</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Responded to</label>
+            <language>en</language>
+            <name>x_1245589_social_m_monitor</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>dandev</sys_created_by>
+            <sys_created_on>2024-04-19 00:11:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>dandev</sys_updated_by>
+            <sys_updated_on>2024-04-19 00:42:46</sys_updated_on>
+            <value>13</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pending Approval</label>
+            <language>en</language>
+            <name>x_1245589_social_m_monitor</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>dandev</sys_created_by>
+            <sys_created_on>2024-04-19 00:17:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dandev</sys_updated_by>
+            <sys_updated_on>2024-04-19 00:17:39</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Pending Approval</label>
+            <language>en</language>
+            <name>x_1245589_social_m_monitor</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>dandev</sys_created_by>
+            <sys_created_on>2024-04-19 00:11:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>dandev</sys_updated_by>
+            <sys_updated_on>2024-04-19 00:44:30</sys_updated_on>
+            <value>11</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Approved</label>
+            <language>en</language>
+            <name>x_1245589_social_m_monitor</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>dandev</sys_created_by>
+            <sys_created_on>2024-04-19 00:11:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>dandev</sys_updated_by>
+            <sys_updated_on>2024-04-19 00:44:30</sys_updated_on>
+            <value>12</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Approval requested</label>
+            <language>en</language>
+            <name>x_1245589_social_m_monitor</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>dandev</sys_created_by>
+            <sys_created_on>2024-04-19 00:11:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>dandev</sys_updated_by>
+            <sys_updated_on>2024-04-19 00:44:30</sys_updated_on>
+            <value>10</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Responded to</label>
+            <language>en</language>
+            <name>x_1245589_social_m_monitor</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>dandev</sys_created_by>
+            <sys_created_on>2024-04-19 00:17:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dandev</sys_updated_by>
+            <sys_updated_on>2024-04-19 00:17:39</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Approval</label>
+            <language>en</language>
+            <name>x_1245589_social_m_monitor</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>dandev</sys_created_by>
+            <sys_created_on>2024-04-19 00:17:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>dandev</sys_updated_by>
+            <sys_updated_on>2024-04-19 00:44:30</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No response</label>
+            <language>en</language>
+            <name>x_1245589_social_m_monitor</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>dandev</sys_created_by>
+            <sys_created_on>2024-04-19 00:17:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dandev</sys_updated_by>
+            <sys_updated_on>2024-04-19 00:17:39</sys_updated_on>
+            <value>6</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

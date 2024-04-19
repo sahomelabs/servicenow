@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_template_page">
+    <sys_app_template_page action="INSERT_OR_UPDATE">
+        <header>Let’s set up your flow</header>
+        <order>400</order>
+        <page_name>Flow page</page_name>
+        <page_type display_value="Flow">a88799c97312201003234a2214f6a7c2</page_type>
+        <sub_header>This flow needs a name, description, and other details.</sub_header>
+        <sys_class_name>sys_app_template_page</sys_class_name>
+        <sys_created_by>dandev</sys_created_by>
+        <sys_created_on>2024-04-19 01:01:57</sys_created_on>
+        <sys_id>d700cd5747290210fd54a09f016d4365</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Flow page</sys_name>
+        <sys_package display_value="Social Media Management" source="x_1245589_social_m">73e6459647650210fd54a09f016d43b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Management">73e6459647650210fd54a09f016d43b5</sys_scope>
+        <sys_update_name>sys_app_template_page_d700cd5747290210fd54a09f016d4365</sys_update_name>
+        <sys_updated_by>dandev</sys_updated_by>
+        <sys_updated_on>2024-04-19 01:01:57</sys_updated_on>
+        <template_wizard display_value="Social Media Response Approvals">5700cd5747290210fd54a09f016d4362</template_wizard>
+        <title>BUILD A FLOW FROM TEMPLATE</title>
+    </sys_app_template_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=d700cd5747290210fd54a09f016d4365"/>
+</record_update>

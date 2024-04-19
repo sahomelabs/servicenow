@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Action" section_id="f7db734f47a10210fd54a09f016d43f7" sys_domain="global" table="x_1245589_social_m_monitor" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reply</element>
+            <position>0</position>
+            <sys_created_by>dandev</sys_created_by>
+            <sys_created_on>2024-04-18 21:48:06</sys_created_on>
+            <sys_id>a3a39c9b47250210fd54a09f016d436d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Action" display_value="Action" name="x_1245589_social_m_monitor" sys_domain="global" view="Default view">f7db734f47a10210fd54a09f016d43f7</sys_ui_section>
+            <sys_updated_by>dandev</sys_updated_by>
+            <sys_updated_on>2024-04-18 21:48:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>dandev</sys_created_by>
+            <sys_created_on>2024-04-18 21:48:06</sys_created_on>
+            <sys_id>2ba39c9b47250210fd54a09f016d436d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Action" display_value="Action" name="x_1245589_social_m_monitor" sys_domain="global" view="Default view">f7db734f47a10210fd54a09f016d43f7</sys_ui_section>
+            <sys_updated_by>dandev</sys_updated_by>
+            <sys_updated_on>2024-04-18 21:48:06</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>user_s_handle_s</element>
+            <position>2</position>
+            <sys_created_by>dandev</sys_created_by>
+            <sys_created_on>2024-04-18 21:48:06</sys_created_on>
+            <sys_id>afa39c9b47250210fd54a09f016d436d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Action" display_value="Action" name="x_1245589_social_m_monitor" sys_domain="global" view="Default view">f7db734f47a10210fd54a09f016d43f7</sys_ui_section>
+            <sys_updated_by>dandev</sys_updated_by>
+            <sys_updated_on>2024-04-18 21:48:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>3</position>
+            <sys_created_by>dandev</sys_created_by>
+            <sys_created_on>2024-04-18 21:48:06</sys_created_on>
+            <sys_id>27a39c9b47250210fd54a09f016d436e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Action" display_value="Action" name="x_1245589_social_m_monitor" sys_domain="global" view="Default view">f7db734f47a10210fd54a09f016d43f7</sys_ui_section>
+            <sys_updated_by>dandev</sys_updated_by>
+            <sys_updated_on>2024-04-18 21:48:06</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>our_response</element>
+            <position>4</position>
+            <sys_created_by>dandev</sys_created_by>
+            <sys_created_on>2024-04-18 21:48:06</sys_created_on>
+            <sys_id>aba39c9b47250210fd54a09f016d436e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Action" display_value="Action" name="x_1245589_social_m_monitor" sys_domain="global" view="Default view">f7db734f47a10210fd54a09f016d43f7</sys_ui_section>
+            <sys_updated_by>dandev</sys_updated_by>
+            <sys_updated_on>2024-04-18 21:48:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Action</caption>
+            <header>false</header>
+            <name>x_1245589_social_m_monitor</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>dandev</sys_created_by>
+            <sys_created_on>2024-04-18 20:04:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f7db734f47a10210fd54a09f016d43f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1245589_social_m_monitor</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Social Media Management" source="x_1245589_social_m">73e6459647650210fd54a09f016d43b5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Social Media Management">73e6459647650210fd54a09f016d43b5</sys_scope>
+            <sys_update_name>sys_ui_section_f7db734f47a10210fd54a09f016d43f7</sys_update_name>
+            <sys_updated_by>dandev</sys_updated_by>
+            <sys_updated_on>2024-04-18 20:04:04</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
